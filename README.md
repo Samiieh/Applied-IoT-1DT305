@@ -1,2 +1,0 @@
-# IoT
-Testprojekt för IoT
